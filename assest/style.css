@@ -1,0 +1,20 @@
+.div-form{
+    width: 240px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+   
+}
+#form{
+    display: none;
+}
+.welcolme-page{
+    height: 200px;
+    margin: 200px;
+    padding-left: 170px;
+    padding-top: 80px;
+    background-color: rgba(129, 138, 129, 0.514);
+}
+#page{
+    display: none;
+}
